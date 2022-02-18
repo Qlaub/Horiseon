@@ -1,4 +1,4 @@
-# Horiseon Social Solution Services, Inc. 
+# Horiseon Social Solution Services
 
 ## Purpose
 Offering online marketing resources including:
@@ -8,7 +8,7 @@ Offering online marketing resources including:
 
 ## Website
 
-## Made with
+## Developed using
 * CSS
 * HTML
 
