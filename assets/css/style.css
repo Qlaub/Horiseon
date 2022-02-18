@@ -1,4 +1,4 @@
-/* PAGE */
+/* PAGE & GENERAL */
 
 * {
   box-sizing: border-box;
@@ -127,7 +127,7 @@ header nav ul li {
   max-width: 150px;
 }
 
-/* FOOTER */
+/* FOOTER SECTION */
 
 footer {
   padding: 30px;

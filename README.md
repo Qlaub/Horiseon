@@ -6,6 +6,9 @@ Offering online marketing resources including:
 * Online reputation management
 * Social media marketing
 
+## Optimized for SEO
+This website has been optimized for search engine optimzation with contributions by Alex Glaubitz.
+
 ## Website
 https://qlaub.github.io/Horiseon/
 
@@ -14,8 +17,5 @@ https://qlaub.github.io/Horiseon/
 ## Developed using
 * CSS
 * HTML
-
-## Optimized for SEO
-With care by Alex Glaubitz
 
 ### ©️2022 Horiseon Social Solution Services, Inc.
