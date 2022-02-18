@@ -7,10 +7,10 @@ Offering online marketing resources including:
 * Social media marketing
 
 ## Optimized for SEO
-This website has been optimized for search engine optimzation with contributions by Alex Glaubitz.
+This website has been optimized for search engine optimzation with contributions from Alex Glaubitz.
 
 ## Website
-https://qlaub.github.io/Horiseon/
+https://qlaub.github.io/Horiseon-Code-Refactor/
 
 ![Alt text](/assets/images/screenshot.gif?raw=true "Website preview GIF")
 
