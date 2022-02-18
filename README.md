@@ -7,6 +7,9 @@ Offering online marketing resources including:
 * Social media marketing
 
 ## Website
+https://qlaub.github.io/Horiseon/
+
+![Alt text](/assets/images/screenshot.gif?raw=true "Website preview GIF")
 
 ## Developed using
 * CSS
