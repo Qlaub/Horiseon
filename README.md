@@ -10,7 +10,7 @@ Offering online marketing resources including:
 This website has been optimized for search engine optimzation with contributions from Alex Glaubitz.
 
 ## Website
-https://qlaub.github.io/Horiseon-Code-Refactor/
+[Click here](https://qlaub.github.io/Horiseon-Code-Refactor/) to view the website
 
 ![Alt text](/assets/images/screenshot.gif?raw=true "Website preview GIF")
 
